@@ -1,0 +1,11 @@
+E:\vs c#\API\E-Commerce\Shared\bin\Debug\net8.0\Shared.deps.json
+E:\vs c#\API\E-Commerce\Shared\bin\Debug\net8.0\Shared.dll
+E:\vs c#\API\E-Commerce\Shared\bin\Debug\net8.0\Shared.pdb
+E:\vs c#\API\E-Commerce\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs c#\API\E-Commerce\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+E:\vs c#\API\E-Commerce\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+E:\vs c#\API\E-Commerce\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+E:\vs c#\API\E-Commerce\Shared\obj\Debug\net8.0\Shared.dll
+E:\vs c#\API\E-Commerce\Shared\obj\Debug\net8.0\refint\Shared.dll
+E:\vs c#\API\E-Commerce\Shared\obj\Debug\net8.0\Shared.pdb
+E:\vs c#\API\E-Commerce\Shared\obj\Debug\net8.0\ref\Shared.dll
