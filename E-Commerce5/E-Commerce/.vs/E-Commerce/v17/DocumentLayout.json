@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs c#\\API\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED14AF5D-29F7-4987-A691-BABB176A9CA2}|Domain\\Domain.csproj|e:\\vs c#\\api\\e-commerce\\domain\\contracts\\spicification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED14AF5D-29F7-4987-A691-BABB176A9CA2}|Domain\\Domain.csproj|solutionrelative:domain\\contracts\\spicification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spicification.cs",
+              "DocumentMoniker": "E:\\vs c#\\API\\E-Commerce\\Domain\\Contracts\\Spicification.cs",
+              "RelativeDocumentMoniker": "Domain\\Contracts\\Spicification.cs",
+              "ToolTip": "E:\\vs c#\\API\\E-Commerce\\Domain\\Contracts\\Spicification.cs*",
+              "RelativeToolTip": "Domain\\Contracts\\Spicification.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:22:17.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
