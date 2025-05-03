@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs c#\\API\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAA0D47-2DB6-4B35-BE91-050B275311DA}|Presestance\\Presestance.csproj|e:\\vs c#\\api\\e-commerce\\presestance\\repositories\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAA0D47-2DB6-4B35-BE91-050B275311DA}|Presestance\\Presestance.csproj|solutionrelative:presestance\\repositories\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8459E4A4-2799-4646-B557-043426CD7639}|Services\\Services.csproj|e:\\vs c#\\api\\e-commerce\\services\\spicification\\productwithbrandandproductspicification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8459E4A4-2799-4646-B557-043426CD7639}|Services\\Services.csproj|solutionrelative:services\\spicification\\productwithbrandandproductspicification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED14AF5D-29F7-4987-A691-BABB176A9CA2}|Domain\\Domain.csproj|e:\\vs c#\\api\\e-commerce\\domain\\contracts\\spicification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED14AF5D-29F7-4987-A691-BABB176A9CA2}|Domain\\Domain.csproj|solutionrelative:domain\\contracts\\spicification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductWithBrandAndProductSpicification.cs",
+              "DocumentMoniker": "E:\\vs c#\\API\\E-Commerce\\Services\\Spicification\\ProductWithBrandAndProductSpicification.cs",
+              "RelativeDocumentMoniker": "Services\\Spicification\\ProductWithBrandAndProductSpicification.cs",
+              "ToolTip": "E:\\vs c#\\API\\E-Commerce\\Services\\Spicification\\ProductWithBrandAndProductSpicification.cs",
+              "RelativeToolTip": "Services\\Spicification\\ProductWithBrandAndProductSpicification.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:39:17.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "E:\\vs c#\\API\\E-Commerce\\Presestance\\Repositories\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Presestance\\Repositories\\SpecificationEvaluator.cs",
+              "ToolTip": "E:\\vs c#\\API\\E-Commerce\\Presestance\\Repositories\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Presestance\\Repositories\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:33:56.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spicification.cs",
+              "DocumentMoniker": "E:\\vs c#\\API\\E-Commerce\\Domain\\Contracts\\Spicification.cs",
+              "RelativeDocumentMoniker": "Domain\\Contracts\\Spicification.cs",
+              "ToolTip": "E:\\vs c#\\API\\E-Commerce\\Domain\\Contracts\\Spicification.cs",
+              "RelativeToolTip": "Domain\\Contracts\\Spicification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:22:17.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

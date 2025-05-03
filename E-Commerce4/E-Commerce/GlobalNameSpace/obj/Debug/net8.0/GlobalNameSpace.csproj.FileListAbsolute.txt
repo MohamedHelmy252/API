@@ -1,0 +1,11 @@
+E:\vs c#\API\E-Commerce\GlobalNameSpace\bin\Debug\net8.0\GlobalNameSpace.deps.json
+E:\vs c#\API\E-Commerce\GlobalNameSpace\bin\Debug\net8.0\GlobalNameSpace.dll
+E:\vs c#\API\E-Commerce\GlobalNameSpace\bin\Debug\net8.0\GlobalNameSpace.pdb
+E:\vs c#\API\E-Commerce\GlobalNameSpace\obj\Debug\net8.0\GlobalNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs c#\API\E-Commerce\GlobalNameSpace\obj\Debug\net8.0\GlobalNameSpace.AssemblyInfoInputs.cache
+E:\vs c#\API\E-Commerce\GlobalNameSpace\obj\Debug\net8.0\GlobalNameSpace.AssemblyInfo.cs
+E:\vs c#\API\E-Commerce\GlobalNameSpace\obj\Debug\net8.0\GlobalNameSpace.csproj.CoreCompileInputs.cache
+E:\vs c#\API\E-Commerce\GlobalNameSpace\obj\Debug\net8.0\GlobalNameSpace.dll
+E:\vs c#\API\E-Commerce\GlobalNameSpace\obj\Debug\net8.0\refint\GlobalNameSpace.dll
+E:\vs c#\API\E-Commerce\GlobalNameSpace\obj\Debug\net8.0\GlobalNameSpace.pdb
+E:\vs c#\API\E-Commerce\GlobalNameSpace\obj\Debug\net8.0\ref\GlobalNameSpace.dll
